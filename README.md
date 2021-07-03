@@ -4,6 +4,8 @@
 
 ----
 
+Made by Garlic Team
+
 ### Vote for us! (Please)
 
 
@@ -27,3 +29,5 @@
 
 
  `npm i discord.js ffmpeg-static gcommands opusscript solenolyrics youtube-sr ytdl-core`
+
+Disclaimer : This is not made by me
